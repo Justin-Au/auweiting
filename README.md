@@ -1,6 +1,6 @@
 ### Hello, welcome to my GitHub! 👋
 
-You can find my works on data analytics and visualization in repositories. Of course, feel free to let me know any comment or suggestion you would like to give me.
+You can find my works on data analytics and visualization in repositories. I have done several Python projects. Currently, I am working on database project using SQL and data visualization using Tableau.
 
 
 <!--
