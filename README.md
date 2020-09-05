@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, welcome to my GitHub! 👋
+
+You can find my works on data analytics and visualization in repositories. Of course, feel free to let me know any comment or suggestion you would like to give me.
+
 
 <!--
 **auweiting/auweiting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
